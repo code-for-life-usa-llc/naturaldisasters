@@ -48,3 +48,7 @@ img{
   border: 5px solid black;
   float:right;
 }
+
+#pfp{
+  float: left;
+}

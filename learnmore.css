@@ -40,3 +40,6 @@ ul {
   li a:hover {
     background-color: #111;
   }
+  #pfp{
+    float: left;
+  }
