@@ -3,7 +3,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
+  background-color: cornflowerblue;
 }
 
 li {
@@ -128,7 +128,6 @@ body {
 h1 {
   font-family: 'Montserrat', sans-serif;
   font-weight: 700;
-  letter-spacing: -5px;
   color: #fff;
 }
 .headline h1 {
@@ -160,4 +159,9 @@ h1 {
   0%{background-position:0% 50%}
   50%{background-position:100% 50%}
   100%{background-position:0% 50%}
+}
+
+#pfp{
+  float: left
+  ;
 }
